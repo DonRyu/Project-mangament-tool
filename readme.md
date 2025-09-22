@@ -12,12 +12,11 @@ A web-based project management application built with **React** and **Ant Design
 - **Search & Pagination**: Quickly find projects and navigate large datasets.
 - **Responsive Design**: Optimized for smooth usage across devices.
 
-##
+## Stack
+**Frontend**: React.js, Javascript
+**Backend**: Node.js Express, Javascript
 
-
-
-* Frontend: React.js, Javascript
-* Backend: Node.js Express, Javascript
+“This project does not use a database. CRUD operations are implemented using custom JSON logic in React state.”
 
 ## How to install 
 ```
