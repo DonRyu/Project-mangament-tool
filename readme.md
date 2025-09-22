@@ -1,6 +1,6 @@
 # Project Management Tool
 
-![Full-Stack-CRUD-WebApp](CRUD.gif)
+![Full-Stack-CRUD-WebApp](CRUD.png)
 
 A web-based project management application built with **React** and **Ant Design (antd)** to simplify team collaboration and task tracking. The application provides an intuitive interface for managing projects, assigning developers, and monitoring progress.
 
