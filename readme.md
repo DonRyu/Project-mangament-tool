@@ -2,7 +2,6 @@
 
 ![Full-Stack-CRUD-WebApp](CRUD.gif)
 
-
 A web-based project management application built with **React** and **Ant Design (antd)** to simplify team collaboration and task tracking. The application provides an intuitive interface for managing projects, assigning developers, and monitoring progress.
 
 ## Features
@@ -46,7 +45,7 @@ To run without error, you need to install node modules for both frontend and bac
 ### Order of the installation
 
 #1 Install backend node module
-1. Make sure you are in the root folder directory Dongheon-Ryu-IS24-full-stack-competition-req97073
+1. Make sure you are in the root folder directory
 2. Run terminal, and type npm install and press enter
 	> npm install
 3. Confirm that node_modules folder is created
